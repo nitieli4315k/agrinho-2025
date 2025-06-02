@@ -38,4 +38,33 @@
       <h3>Reduz a qualidades de vida</h3>
       <p>A destruição das florestas impacta a biodiversidade, aumenta a poluição e reduz o contato om areas verdes
   </article>
-  <a href= "https://-youtube-com/watch?v=tLh7nDEKG
+<a href = "https://www.youtube.com/watch?v=ILh7nDEKGqc&pp=ygUXSW1wYWN0byBkbyBEZXNTYXRhbWVudG8%3D">  class="cta-button"
+     </section>
+                    
+            <section id="consequencias"  class="conteudos">
+              <h2>consequencias</h2>
+              <ul>
+                     <li>Aumentos das enchentese e a erosão dos solos </li>
+                     <li>Aumentos das temperaturas e mudanças climaticas </li>
+                     <li>Perda de biodversidades</li>
+                     <li>Redução de qualidades de vidas das pessoas na cidade e até mesmo (animais)</li>
+                     <li>Problemas graves com a saúde</li>
+                     <li>Ipactos na economia de comunidades locais</li>
+            </ul>
+        </section>
+
+        <section id "conclusao" class="conteudo">
+        <h2>Conclusão</h2>
+        <p>o desmatamento impacta diretamente a vida humana. Para evitar suas consequencias,é necessario preservar o meio ambiente
+        <iframe width="520" height="310"  src="https://www.youtube.com/embed/ILh7nDEkGqc?si=geo16szcHp1Cg-jQ"  title="youtube video"
+        </section>
+
+        </main>
+        
+        <footer>
+           <a href="https://www.linkedin.com/in/femascheti/"  class="cta-footer"> faça parte dessa causa!</a>
+           <p>2025/  @nitieli4315k</p>
+        </footer>
+    </body>
+    </html>
+    
